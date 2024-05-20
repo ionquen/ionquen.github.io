@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[470],{9852:(s,t,e)=>{e.r(t),e.d(t,{default:()=>l});const l={data:{title:"Css scroll",tags:["css"]},content:"\r\n## Css scroll\r\n\r\nТестирование возможностей overflow, css-scroll и его вариаций"}}}]);
