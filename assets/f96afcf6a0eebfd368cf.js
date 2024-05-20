@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[974],{8037:(s,e,t)=>{t.r(e),t.d(e,{default:()=>r});var u=t(4848),n=t(7767);function r(){(0,n.LG)();return(0,u.jsx)("div",{children:"2 tsx"})}}}]);
