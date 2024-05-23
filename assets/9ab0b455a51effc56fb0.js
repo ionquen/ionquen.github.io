@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[692],{8e3:(r,n,t)=>{function a(r){return Array(r).fill(null,0,r)}function e(){return`rgb(${~~(255*Math.random())}, ${~~(255*Math.random())}, ${~~(255*Math.random())})`}t.r(n),t.d(n,{fullArr:()=>a,randomColor:()=>e})}}]);
