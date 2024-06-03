@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[67],{6055:(t,s,e)=>{e.r(s),e.d(s,{default:()=>a});const a={data:{title:"Шаблон",tags:["шаблон"]},content:"\r\n## Шаблон по умолчанию"}}}]);

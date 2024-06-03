@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[868],{5011:(s,e,t)=>{t.r(e),t.d(e,{default:()=>u});const u={plane:"jL+t3",cloud:"_7AUqL"}}}]);

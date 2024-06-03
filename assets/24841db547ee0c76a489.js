@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[789],{7664:(s,e,t)=>{t.r(e),t.d(e,{default:()=>a});const a={item:"PtsX4",sidebar:"yNjqr",main:"_02fag",component:"M3CIE"}}}]);
