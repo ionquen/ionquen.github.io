@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[4066],{7863:(s,e,t)=>{t.r(e),t.d(e,{default:()=>c});const c={item:"wyixb",scrollBlock:"ALO1W"}}}]);
