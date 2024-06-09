@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[6606],{7127:(s,t,e)=>{e.r(t),e.d(t,{default:()=>c});const c={container:"U+0YR",dirRtl:"N7iCB"}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[9873],{5710:(e,t,s)=>{s.r(t),s.d(t,{default:()=>c});const c={item:"cyjo6",backgroundSection:"mcXH8",pageSection:"dpk6M"}}}]);
