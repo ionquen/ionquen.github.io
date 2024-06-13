@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[5943],{1442:(e,t,s)=>{s.r(t),s.d(t,{default:()=>o});const o={cellWidth:"25",plateHeight:"8",room:"y9-72",room__table:"grAM6",room__plates:"ep6u6",room__actor:"XnlXG"}}}]);
