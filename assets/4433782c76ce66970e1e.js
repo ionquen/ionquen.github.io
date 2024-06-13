@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[6785],{6961:(s,o,t)=>{function e(s){const{scrollTop:o,offsetHeight:t}=s;s.scrollTo({top:o<t/2?0:t,behavior:"smooth"})}t.r(o),t.d(o,{scrollToEdge:()=>e})}}]);

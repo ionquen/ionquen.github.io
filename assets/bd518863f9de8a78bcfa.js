@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[660],{3660:(s,e,t)=>{t.r(e),t.d(e,{default:()=>i});var n=t(4848),c=t(5902);function i(){return(0,n.jsxs)("div",{children:[(0,n.jsx)(c.mg,{title:"Каталог компонентов"}),(0,n.jsx)("section",{children:(0,n.jsx)("h1",{children:"Индексная страница для каталога компонентов"})})]})}}}]);

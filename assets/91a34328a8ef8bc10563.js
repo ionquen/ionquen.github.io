@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[6273],{7103:(n,t,e)=>{e.r(t),e.d(t,{default:()=>i});const i={data:{title:"Scroll timeline animation",tags:["css","scroll"]},content:"\r\n## Scroll timeline animation\r\n\r\nТестирование возможностей scroll driven animation\r\n\r\n* scroll-timeline;\r\n* animation-timeline;"}}}]);

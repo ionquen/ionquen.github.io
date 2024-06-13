@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[9873],{5710:(e,t,s)=>{s.r(t),s.d(t,{default:()=>c});const c={item:"djLAu",backgroundSection:"W-Vvd",pageSection:"_7nxd8"}}}]);
