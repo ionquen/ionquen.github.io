@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[2533],{9012:(e,s,t)=>{t.r(s),t.d(s,{default:()=>k});const k={item:"MIpqk",overflowed__block:"F5wkg",KWidthAnim:"qbDA2"}}}]);

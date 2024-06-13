@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[6398],{4669:(t,e,s)=>{s.r(e),s.d(e,{default:()=>i});const i={item:"Gy6Lt",animBase:"lYPMY",viewAnimation:"cCv8e",scrollAnimation:"uEI6Y",KScrollAnimation:"lD49q"}}}]);
