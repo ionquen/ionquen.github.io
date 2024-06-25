@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[835],{4309:(s,e,t)=>{t.r(e),t.d(e,{default:()=>r});const r={data:{title:"Scrolled sidebar",tags:["css","scroll"]},content:"\r\n## Scrolled sidebar\r\n\r\nРеализации посредством скролла:\r\n\r\n* боковой панели;"}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[334],{4334:(t,e,s)=>{s.r(e),s.d(e,{default:()=>n});const n={data:{title:"Каталог компонентов"},content:"\r\nИндексная страница для каталога компонентов"}}}]);

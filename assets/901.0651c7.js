@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[901],{8901:(t,e,s)=>{s.r(e),s.d(e,{default:()=>a});const a={data:{title:"Главная"},content:""}}}]);
