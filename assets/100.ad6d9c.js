@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[100],{5786:(s,t,e)=>{e.r(t),e.d(t,{default:()=>n});const n={data:{title:"Css анимации и иллюстрации",tags:["анимация","css"]},content:"## Css анимации и иллюстрации\r\n\r\n1. Самолёт, обтекаемый облаками;"}}}]);
