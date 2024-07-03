@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[430],{2716:(t,e,s)=>{s.r(e),s.d(e,{default:()=>a});const a={data:{title:"JSON formatter",tags:["инструмент"]},content:"\r\n## Форматирование, добавление отступов для объектов JSON"}}}]);
