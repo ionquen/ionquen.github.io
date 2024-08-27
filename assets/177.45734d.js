@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktests=self.webpackChunktests||[]).push([[177],{9557:(t,s,e)=>{e.r(s),e.d(s,{default:()=>n});const n={data:{title:"Вывод видео",tags:["js"],hidden:!0},content:"\r\n## Описание\r\n\r\nВывод онлайн видео-картинки средством браузерных api.   "}}}]);
